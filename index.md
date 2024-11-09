@@ -10,4 +10,4 @@ show_call_box: true
 
 # SoftNest: Your Success and Security is our Priority
 
-Innovative Software Solutions Tailored to Your Business Needs. Check
+Innovative Software Solutions Tailored to Your Business Needs.
