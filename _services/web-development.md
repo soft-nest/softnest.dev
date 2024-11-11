@@ -6,7 +6,7 @@ weight: 1
 
 A strong online presence is essential for any business. Our web development services encompass everything from designing responsive websites to developing complex web applications.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Web Development](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## Elevate Your Online Presence
 
