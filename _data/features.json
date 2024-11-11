@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Developers",
+    "description": "All members of our team are certified developers.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Customized Solutions",
+    "description": "Tailored services that meet the unique needs of each client.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
