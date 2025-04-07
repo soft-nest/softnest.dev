@@ -3,25 +3,25 @@
     "title": "Free Consultation",
     "description": "New clients receive an obligation free consultation.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/Booking Illustration.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Developers",
+    "description": "All members of our team are certified developers with years of experience.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/Developer Activity.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Technology Compliant",
+    "description": "All software solutions adhere to standards for security and legal compliance.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/Mobile Encryption Illustration.svg",
       "width": 80,
       "height": 80
     }
